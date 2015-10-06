@@ -17,6 +17,15 @@ Supported Log Formats
 
 For details please see LOGLINE_RE_LIST in hblog/lib/SingleFileLogAccessor.py
 
+Installation:
+
+git clone https://github.com/facebook/hblog.git
+
+HBlog requires Python tornado module.
+Install tornado using pip command.
+
+sudo pip install tornado
+
 
 Usage
 --------
